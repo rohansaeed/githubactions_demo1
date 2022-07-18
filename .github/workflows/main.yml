@@ -35,3 +35,5 @@ jobs:
           echo "Nothing to see in the multi-line script"
           echo "Print working directory"
           pwd
+          echo List all
+          ls -la
