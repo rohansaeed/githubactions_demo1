@@ -25,5 +25,5 @@
           echo 9. How is disk laid out?
           df
           echo
-          echo 10. What are the env variables?
+          echo 10. What are the environment variables?
           env
